@@ -67,7 +67,7 @@
 		8909B5421BC791510060A053 /* SKZoomingScrollView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SKZoomingScrollView.swift; sourceTree = "<group>"; };
 		8909B54C1BC7916E0060A053 /* SKPhotoBrowser.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = SKPhotoBrowser.bundle; sourceTree = "<group>"; };
 		8917B1AF1D5A13DE000CE1C4 /* SKPhotoBrowserDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SKPhotoBrowserDelegate.swift; sourceTree = "<group>"; };
-		8917B1B31D5A14B0000CE1C4 /* SKButtons.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SKButtons.swift; sourceTree = "<group>"; };
+		8917B1B31D5A14B0000CE1C4 /* SKButtons.swift */ = {isa = PBXFileReference; fileEncoding = 4; indentWidth = 4; lastKnownFileType = sourcecode.swift; path = SKButtons.swift; sourceTree = "<group>"; tabWidth = 4; };
 		89C24A811D657AD1005F09A9 /* SKPhotoBrowserOptions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SKPhotoBrowserOptions.swift; sourceTree = "<group>"; };
 		89C24A831D657AFE005F09A9 /* SKPagingScrollView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SKPagingScrollView.swift; sourceTree = "<group>"; };
 		89D0BA461D5994A8002A811B /* SKAnimator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SKAnimator.swift; sourceTree = "<group>"; };
